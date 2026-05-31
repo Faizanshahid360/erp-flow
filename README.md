@@ -265,5 +265,5 @@ erp-platform/
 | [docs/SCHEMA_DIAGRAM.md](docs/SCHEMA_DIAGRAM.md) | Database ERD (renders on GitHub) |
 | [docs/ROLES.md](docs/ROLES.md) | Role permissions and enforcement |
 | [docs/DATABASE.md](docs/DATABASE.md) | Table-by-table schema reference |
-| `http://localhost:5000/api/docs` | Swagger UI (requires stack running) |
+| `http://localhost:5000/api/docs` | Swagger UI (requires of stack running)|
 
